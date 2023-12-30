@@ -18,7 +18,7 @@
 * []()  ☕ [ ]()
 
 
-## Tópicos (link wiki)  
+## Tópicos de estudos (link wiki)  
 ### Anotaçôes
 
 * [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento) 
