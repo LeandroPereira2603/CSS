@@ -15,8 +15,10 @@
 
 ## Tópicos (Github Pages) 
 ### Prática de programação  : 
-* [Pseudo Elemento]()  ☕ [ ]()
+* []()  ☕ [ ]()
 
 
 ## Tópicos (link wiki)  
 ### Anotaçôes
+
+* [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento) 
