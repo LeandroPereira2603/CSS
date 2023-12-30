@@ -3,13 +3,38 @@
 }
 
 body{
-    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:beige
 }
 
-div{
+.cont-links{
 
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(215, 233, 255);
+    border-bottom-left-radius:40px ;
+    border-bottom-right-radius: 40px;
+    border: 2px solid black;
+ 
+
+}
+.display-inline-div{
+    display: inline-block;
 }
 
 a{
-color: aqua;
+ 
+    text-align: center;
+
+}
+li{
+   
+}
+h3{
+    text-align: center;
 }
