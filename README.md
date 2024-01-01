@@ -5,17 +5,16 @@
 <p> Aqui terá todos os meus reposiórios criados sobre CSS </p>
  
 
-<!---
-<strong> Os significados dos logotipos :</strong>
-|Descrição | Logotipo   |
-|:--: |:--:|
-| Projeto em desenvolvimento    |  🛑  |
-| Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕|  -->
+<strong> Legenda :</strong>
 
-## Tópicos (Github Pages) 
-### Prática de programação  : 
-* [sites : exemplos gerais de uso de elementos css ]()  ☕ [ ]()
+|Descrição | Logotipo   | Total |
+|:--: |:--:|:--:|
+| Projetos Abandonados | 🔴 | 0 |
+| Projetos em desenvolvimento    |  🟡  | 0 |
+| Projetos concluídos    |  🟢  | 0 |
+| Meus projetos Favoritos | ⭐ | 0 |
+| Código Fonte - local do repositório | ☕| 1 |
+
 
 
 ## Tópicos de estudos (link wiki)  
