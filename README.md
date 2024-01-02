@@ -17,7 +17,7 @@
 
 
 
-## 📑 Tópicos de estudos (link wiki)  
+## 📚 Tópicos de estudos (link wiki)  
 ### Sobre :
 
 * [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento) 
