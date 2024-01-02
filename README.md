@@ -21,6 +21,7 @@
 ### Sobre :
 
 * [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento)
+* [Pseudo-Classes]()
 * [Todas as propriedades css]
 * [Medidas]
 * [Keyframes]
