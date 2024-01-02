@@ -2,6 +2,7 @@
 
 <p> Pseudoelementos são como elementos virtuais que podem ser tratados como elementos regulares da marcação HTML. Contudo, eles não existem na árvore do documento (no DOM) pois são criados com uso de CSS. Alguns pseudoelementos mais conhecidos são: :after , :before e :first-letter </p>
 
+<p> vai deixar o background laranja de todos os parágrafos exceto o id ="missao" </p>
 
 ```css
 
@@ -11,7 +12,7 @@
 
 ```
 
-vai deixar o background laranja de todos os parágrafos exceto o id ="missao"
+vai colocar a estrela antes de li
 
 ```css
 .li:before{
@@ -20,7 +21,8 @@ vai deixar o background laranja de todos os parágrafos exceto o id ="missao"
 
 ```
 
-vai colocar a estrela antes de li
+
+vai colocar a estrela depois de li
 
 ```css
 
@@ -29,4 +31,4 @@ vai colocar a estrela antes de li
 }
 
 ```
-vai colocar a estrela depois de li
+
