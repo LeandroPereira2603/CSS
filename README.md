@@ -20,4 +20,8 @@
 ## 📚 Tópicos de estudos (link wiki)  
 ### Sobre :
 
-* [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento) 
+* [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento)
+* [Todas as propriedades css]
+* [Medidas]
+* [Keyframes]
+* [Media screen]
