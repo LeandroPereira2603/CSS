@@ -18,6 +18,6 @@
 
 
 ## Tópicos de estudos (link wiki)  
-### Anotaçôes
+### Sobre :
 
 * [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento) 
