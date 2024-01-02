@@ -22,7 +22,7 @@
 
 * [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/wiki/Pseudo-Elemento)
 * [Pseudo-Classes]()
-* [Todas as propriedades css]
+* [Todas as propriedades css](https://github.com/LeandroPereira2603/CSS/wiki/Todas-as-prorpiedades)
 * [Medidas]
 * [Keyframes]
 * [Media screen]
