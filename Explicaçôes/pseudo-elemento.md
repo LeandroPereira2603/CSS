@@ -20,7 +20,7 @@ parágrafos , exceto o id ="missao".         */
     content: "⭐";
 }
 
-/* Vai incluir o texto , depois do espaço li*/
+/* Vai incluir o texto , depois da classe li*/
 
 ```
 
