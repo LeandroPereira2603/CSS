@@ -20,7 +20,7 @@
 
 ### Sobre :
 
-* 🟡 [Pseudo Elemento]
+* 🟡 [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/blob/main/Explica%C3%A7%C3%B4es/pseudo-elemento.md)
 * 🟡 [Pseudo-Classes]
 * 🟡 [Propriedades css]
 * [Medidas]
