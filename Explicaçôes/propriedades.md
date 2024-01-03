@@ -19,7 +19,11 @@ background-color : red ;
 
 ```css
 
+body{
+
   background : linear-gradient(73deg , blue, white , 30%);
+
+}
 
 ```
 
