@@ -17,7 +17,6 @@
 
 ## 📚 Tópicos de estudos 
 
-### Link de acesso ao arquivo do repositório explicaçôes (extensão : md)
 
 ### Sobre :
 
