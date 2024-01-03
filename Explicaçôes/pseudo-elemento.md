@@ -1,6 +1,6 @@
 
 
-<p> Pseudoelementos são como elementos virtuais que podem ser tratados como elementos regulares da marcação HTML. Contudo, eles não existem na árvore do documento (no DOM) pois são criados com uso de CSS. Alguns pseudoelementos mais conhecidos são: :after , :before e :first-letter </p>
+<p> Pseudoelementos são como elementos virtuais que podem ser tratados como elementos regulares da marcação HTML. Contudo, eles não existem na árvore do documento (no DOM) pois são criados com uso de CSS. Alguns pseudoelementos mais conhecidos são: :after , :before e :first-letter </p> <br>
 
 ```css
 
