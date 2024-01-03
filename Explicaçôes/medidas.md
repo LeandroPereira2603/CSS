@@ -1,15 +1,33 @@
-## Medidas 
+# Medidas absolutas
 
 
 * px
 
+* pt
+
+* cm
+
+* mm
+
+* pc (paica)
+
+# Medidas relativas
+
 * rem
-
-* vh 
-
-* vw
-
+  
 * %
-
-* cm 
-
+  
+* rem (rems," root em")
+  
+* em (EMS)
+  
+* %
+  
+* vw
+  
+* vh
+  
+* vmin
+  
+* vmax
+  
