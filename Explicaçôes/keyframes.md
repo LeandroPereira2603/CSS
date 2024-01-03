@@ -5,16 +5,19 @@
 
 ```css
  
-  @keyframes mudarCor {
+@keyframes mudarCor {
 
-   0% {
+ 0% {
+
      background-color: seagreen;
-   }
 
-   100%{
+ }
+
+ 100%{
     
      background-color: green ;
-   }
+
+ }
 
 }
 
@@ -24,12 +27,12 @@
 
 ```css 
 
-   body{
+body{
 
     background-color : green;
     animation: mudarCor 2s linear ;
 
-   }
+ }
 
 ```
 
