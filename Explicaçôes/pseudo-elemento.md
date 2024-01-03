@@ -7,7 +7,9 @@
 .principal p:not(#missao){
     background-color: orange;
 }
-/* O Pseudoelemento :not ira mudar o estilo da propriedade background laranja de todos os parágrafos , exceto o id ="missao". */
+/* O Pseudoelemento :not ira mudar o estilo da
+propriedade background laranja de todos os parágrafos
+ , exceto o id ="missao". */
 
 ```
 
