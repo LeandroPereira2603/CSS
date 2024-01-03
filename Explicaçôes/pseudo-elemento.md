@@ -1,8 +1,9 @@
 
  # Pseudoelementos 
  
-<p>são como elementos virtuais que podem ser tratados como elementos regulares da marcação HTML. Contudo, eles não existem na árvore do documento (no DOM) pois são criados com uso de CSS. Alguns pseudoelementos mais conhecidos são: :after , :before e :first-letter </p> <br>
+<p>são como elementos virtuais que podem ser tratados como elementos regulares da marcação HTML. Contudo, eles não existem na árvore do documento (no DOM) pois são criados com uso de CSS. Alguns pseudoelementos mais conhecidos são: :after , :before e :first-letter . </p> <br>
 
+### :not
 ```css
 
 .principal p:not(#missao){
@@ -16,6 +17,8 @@ parágrafos , exceto o id="missao".          */
 
 ```
 
+### :before
+
 ```css
 
 .li:before{
@@ -26,6 +29,8 @@ parágrafos , exceto o id="missao".          */
 /* Vai incluir o texto , depois da classe li*/
 
 ```
+
+### :after
 
 ```css
 
