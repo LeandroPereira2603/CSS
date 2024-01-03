@@ -1,0 +1,44 @@
+
+# Revisão 
+
+
+## cor 
+
+### RGB
+
+<p> O rgb significa red , green , blue , definindo a intensidade de cor  , por números quanto maior for o número mais forte , e defindo os três no parâmetro  , faz a mistura de cores .</p>
+
+```css
+
+background-color : rgb(0,0,50);
+
+```
+
+<p> tom azul </p>
+
+
+### Hexadecimal 
+
+```css
+
+background-color : #003344 ;
+
+```
+
+### HSCV
+
+```css
+
+background : hscv(0,0,0,23) ;
+
+```
+
+
+
+### Gradiente
+
+```css 
+
+background : linear-gradient(23deg,blue, azul); 
+
+```
