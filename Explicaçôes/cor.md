@@ -1,16 +1,16 @@
 
-# Revisão 
+# Revisão depois conferir e corrigir .
 
 
 ## cor 
 
-### RGB
+### RGBA
 
-<p> O rgb significa red , green , blue , definindo a intensidade de cor  , por números quanto maior for o número mais forte , e defindo os três no parâmetro  , faz a mistura de cores .</p>
+<p> O rgba significa tons de  red , green , blue , transparente  , definindo a intensidade de cor   por números , quanto maior for o número mais imtensa e a cor , e defindo os três no parâmetro  , faz a mistura de cores .</p>
 
 ```css
 
-background-color : rgb(0,0,50);
+background-color : rgb(0,0,50, 0.5);
 
 ```
 
