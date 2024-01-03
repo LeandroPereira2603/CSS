@@ -10,7 +10,7 @@
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 3 |
 | Concluído    |  🟢  | 0 |
-| Favoritos | ⭐ | 0 |
+| Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
 
 
