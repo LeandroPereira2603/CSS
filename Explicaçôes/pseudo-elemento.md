@@ -5,6 +5,7 @@
 ```css
 
 .principal p:not(#missao){
+
     background-color: orange;
 }
 
@@ -17,6 +18,7 @@ parágrafos , exceto o id="missao".          */
 ```css
 
 .li:before{
+
     content: "⭐";
 }
 
@@ -27,6 +29,7 @@ parágrafos , exceto o id="missao".          */
 ```css
 
 .li:after{
+
     content: "⭐";
 }
 
