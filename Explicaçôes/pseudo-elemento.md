@@ -7,9 +7,10 @@
 .principal p:not(#missao){
     background-color: orange;
 }
+
 /* O Pseudoelemento :not ira mudar o estilo da
-propriedade background laranja de todos os parágrafos
- , exceto o id ="missao". */
+propriedade background laranja de todos os
+parágrafos , exceto o id ="missao".         */
 
 ```
 
@@ -18,6 +19,7 @@ propriedade background laranja de todos os parágrafos
 .li:before{
     content: "⭐";
 }
+
 /* Vai incluir o texto , depois do espaço li*/
 
 ```
@@ -27,6 +29,7 @@ propriedade background laranja de todos os parágrafos
 .li:after{
     content: "⭐";
 }
+
 /* vai colocar o texto  ,depois da classe li*/
 
 ```
