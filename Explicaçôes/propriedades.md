@@ -1,6 +1,8 @@
 ## Propriedades 
 
-* Background-color : cor de fundo .
+### Background-color 
+
+<p> Propriedade que preenche a cor de todo o espaço de largura e altura definida na tag </p>
 
 ```css 
 
