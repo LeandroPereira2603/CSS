@@ -1,6 +1,4 @@
 # CSS
-
-  Design destinado para o html
  
 <p> Aqui terá todos os meus reposiórios criados sobre CSS </p>
  
