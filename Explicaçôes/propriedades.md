@@ -17,6 +17,12 @@ background-color : red ;
 
 * Background : cor de fundo , podendo definir e alterar com outros tipos , exemplo (linear-gradient , etc ..)
 
+```css
+
+  background : linear-gradient(73deg , blue, white , 30%);
+
+```
+
 * padding : expandir por dentro 
 
 * margin : expandir por fora 
