@@ -23,6 +23,6 @@
 * 🟡 [Pseudo Elemento](https://github.com/LeandroPereira2603/CSS/blob/main/Explica%C3%A7%C3%B4es/pseudo-elemento.md)
 * 🟡 [Pseudo-Classes]
 * 🟡 [Propriedades css]
-* 🟡[Unidade de medidas]()
+* 🟡[Unidade de medidas](https://github.com/LeandroPereira2603/CSS/blob/main/Explica%C3%A7%C3%B4es/medidas.md)
 * [Keyframes]
 * [Media screen]
