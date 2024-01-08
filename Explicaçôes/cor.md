@@ -1,8 +1,8 @@
-
-# Revisão depois conferir e corrigir .
-
-
 ## cor 
+
+* Rgba
+* Hscv 
+* Hexadecimal
 
 ### RGBA
 
