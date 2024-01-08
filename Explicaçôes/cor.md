@@ -14,8 +14,6 @@ background-color : rgb(0,0,50, 0.5);
 
 ```
 
-<p> tom azul </p>
-
 
 ### Hexadecimal 
 
