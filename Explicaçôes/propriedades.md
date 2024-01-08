@@ -1,6 +1,6 @@
 ## Finalidade das propriedades 
 
-* background-color : Preenche a cor de todo o espaço de largura e altura da div.
+* background-color : Preenche a cor de todo o espaço da div.
 
 * background 
    * Linear-gradient( ) : Muda a cor em formato gradiente linear .
