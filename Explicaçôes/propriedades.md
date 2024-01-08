@@ -1,51 +1,29 @@
-## Propriedades 
+## Finalidade das propriedades 
 
-### Background-color 
+* Background-color : Preenche a cor de todo o espaço de largura e altura da div
 
-<p> Propriedade que preenche a cor de todo o espaço de largura e altura definida . </p>
+* Background 
+   * Linear-gradient( ) : Muda a cor em formato linear gradiente .
+   * url() : importa o arquivo de imagem .
+* padding : Expande o espaçamento por dentro da div.
 
-```css 
+* margin : Expande o espaçamento envolta da div.
 
-body {
+* display : Orientação de tela 
 
-background-color : red ;
+* color : Cor da fonte.
 
-}
+* font-family : Estilo de fonte .
 
-```
+* font-size : Tamanho da fonte .
 
+* border : borda. 
 
-* Background : cor de fundo , podendo definir e alterar com outros tipos , exemplo (linear-gradient , etc ..)
+* position : posição da tela.
 
-```css
+* z-index : Camada de tela.
 
-body{
-
-  background : linear-gradient(73deg , blue, white , 30%);
-
-}
-
-```
-
-* padding : expandir por dentro 
-
-* margin : expandir por fora 
-
-* display : orientação de tela 
-
-* color : cor da fonte
-
-* font-family : estilo de fonte
-
-* font-size : tamanho da fonte
-
-* border : borda
-
-* position : posição da tela 
-
-* z-index : Camada de tela  
-
-* cursor : alterar o ponteiro do curso do mouse 
+* cursor : alterar o ponteiro do curso do mouse.
 
 
 
