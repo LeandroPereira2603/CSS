@@ -1,8 +1,8 @@
 ## Finalidade das propriedades 
 
-* Background-color : Preenche a cor de todo o espaço de largura e altura da div.
+* background-color : Preenche a cor de todo o espaço de largura e altura da div.
 
-* Background 
+* background 
    * Linear-gradient( ) : Muda a cor em formato gradiente linear .
    * url() : importa o arquivo de imagem .
 * padding : Expande o espaçamento por dentro da div.
