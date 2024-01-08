@@ -1,10 +1,12 @@
-## cor 
+# cor 
+
+## Tipos de cores 
 
 * Rgba
 * Hscv 
 * Hexadecimal
 
-### RGBA
+### RGBA :
 
 <p> O rgba significa tons de  red , green , blue , transparente  , definindo a intensidade de cor   por números , quanto maior for o número mais imtensa e a cor , e defindo os três no parâmetro  , faz a mistura de cores .</p>
 
@@ -15,7 +17,7 @@ background-color : rgb(0,0,50, 0.5);
 ```
 
 
-### Hexadecimal 
+### Hexadecimal :
 
 ```css
 
@@ -23,7 +25,7 @@ background-color : #003344 ;
 
 ```
 
-### HSCV
+### HSCV :
 
 ```css
 
