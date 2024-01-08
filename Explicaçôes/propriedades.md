@@ -9,7 +9,7 @@
 
 * margin : Expande o espaçamento envolta da div.
 
-* display : Orientação de tela 
+* display : Orientação de tela .
 
 * color : Cor da fonte.
 
