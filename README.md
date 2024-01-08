@@ -5,13 +5,13 @@
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
-|:--: |:--:|:--:|
-| Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 6 |
-| Concluído    |  💻  | 0 |
-| Favorito | ⭐ | 0 |
-| Código Fonte - local do repositório | ☕| 0 |
+|Descrição | Logotipo   | 
+|:--: |:--:|
+| Abandonado | 🔴 | 
+| Em desenvolvimento    |  🟡  | 
+| Concluído    |  💻  | 
+| Favorito | ⭐ |
+| Código Fonte - local do repositório | ☕| 
 
 
 
