@@ -1,6 +1,6 @@
 ## Keyframes 
 
-<p> Keyframes e uma função do css , que usa as propriedades , defindo o tempo de execusão para  animação , declarada dentro da tag .</p>
+<p> Keyframes e uma função do css , que usa as propriedades , defindo o tempo de execusão para  animação.</p>
 
 
 ```css
@@ -23,7 +23,7 @@
 
 ```
 
-<p> Para defini-la </p>
+<p> Para declarar no css. </p>
 
 ```css 
 
