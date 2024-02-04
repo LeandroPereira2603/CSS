@@ -7,7 +7,6 @@
 
 |Descrição | Logotipo   | 
 |:--: |:--:|
-| Abandonado | 🔴 | 
 | Em desenvolvimento    |  🟡  | 
 | Concluído    |  💻  | 
 | Favorito | ⭐ |
